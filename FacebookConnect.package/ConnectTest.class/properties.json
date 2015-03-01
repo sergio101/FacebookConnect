@@ -1,0 +1,17 @@
+{
+	"category" : "FacebookConnect-tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"postFields",
+		"signedRequest",
+		"authToken",
+		"userID" ],
+	"name" : "ConnectTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

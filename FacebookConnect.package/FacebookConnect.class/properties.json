@@ -1,0 +1,14 @@
+{
+	"category" : "FacebookConnect",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessToken" ],
+	"name" : "FacebookConnect",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
