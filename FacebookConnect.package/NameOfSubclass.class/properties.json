@@ -1,15 +1,13 @@
 {
-	"category" : "FacebookConnect",
+	"category" : "FacebookConnect-tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"oAuthToken",
-		"userID",
-		"apiUrl" ],
-	"name" : "FacebookConnect",
+		 ],
+	"name" : "NameOfSubclass",
 	"pools" : [
 		 ],
 	"super" : "Object",

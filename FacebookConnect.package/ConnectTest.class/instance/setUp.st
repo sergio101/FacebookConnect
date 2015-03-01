@@ -4,4 +4,10 @@ setUp
 	
 	authToken := 'CAALou9dDp70BAFNPQhnZAzZByqJzxX57PauGZBVo7D73OrOuYL92tZAwwI1BLzQOnkqfKZA9L4ZC5ZBZC4K1lgJYtq9SXZB3M3R8RtJZBRbaawkcH4HCwFFQwolOiNsPxLJ7FMwv2xPHaTFTr7T5wnw8tWrmPfZCyFg1x4rvz3LMsMg10qJrkbfBPeX2Ys1dHIxGXjwftXTw63aoxn4XAivQ4VqY9iRp7UQB84ZD'.
 	userID := '10155270020995595'.
+	
+params := Dictionary
+		newFrom:
+			{('method' -> 'GET').
+			('apiMethod' -> userID).
+			('apiEdge' -> 'friendLists')}.
 

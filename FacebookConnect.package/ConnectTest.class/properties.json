@@ -9,7 +9,8 @@
 		"postFields",
 		"signedRequest",
 		"authToken",
-		"userID" ],
+		"userID",
+		"params" ],
 	"name" : "ConnectTest",
 	"pools" : [
 		 ],
