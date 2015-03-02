@@ -1,9 +1,9 @@
-api actions
-friendlist
+as yet unclassified
+friends
 	| params |
 	params := Dictionary
 		newFrom:
 			{'method' -> 'GET' .
 			'apiMethod' -> self userID .
-			'apiEdge' -> 'friendlists'}.
+			'apiEdge' -> 'friends'}.
 	^ self apiCall: params.

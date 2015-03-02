@@ -1,3 +1,3 @@
 accessing
 apiUrl
-	^ 'http://graph.facebook.com/facebook'
+	^ 'https://graph.facebook.com/'
