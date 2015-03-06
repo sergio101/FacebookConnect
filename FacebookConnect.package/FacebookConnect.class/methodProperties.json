@@ -2,16 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"apiCall:" : "sergioruiz 3/1/2015 23:18",
+		"apiCall:" : "sergioruiz 3/5/2015 21:11",
 		"apiPath:" : "sergioruiz 3/1/2015 22:57",
 		"apiUrl" : "sergioruiz 3/1/2015 23:19",
 		"apiUrl:" : "sergioruiz 3/1/2015 17:53",
-		"friendlist" : "sergioruiz 3/1/2015 22:54",
-		"friends" : "sergioruiz 3/3/2015 23:19",
 		"getAuthData:forKey:" : "sergioruiz 3/3/2015 23:17",
 		"oAuthToken" : "sergioruiz 3/1/2015 16:56",
 		"oAuthToken:" : "sergioruiz 3/1/2015 16:56",
 		"postFields:" : "sergioruiz 3/1/2015 13:07",
 		"processFields:" : "sergioruiz 3/1/2015 13:05",
+		"taggableFriends" : "sergioruiz 3/5/2015 21:19",
 		"userID" : "sergioruiz 3/1/2015 17:12",
 		"userID:" : "sergioruiz 3/1/2015 17:12" } }

@@ -1,9 +1,9 @@
 as yet unclassified
-friends
+taggableFriends
 	| params |
 	params := Dictionary
 		newFrom:
 			{'method' -> 'GET' .
 			'apiMethod' -> self userID .
-			'apiEdge' -> 'friends'}.
+			'apiEdge' -> 'taggable_friends'}.
 	^ self apiCall: params.
